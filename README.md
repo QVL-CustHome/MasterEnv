@@ -1,2 +1,2 @@
 # masterenv
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/MartinQueval/masterenv)](https://github.com/MartinQueval/masterenv/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/QVL-CustHome/masterenv)](https://github.com/QVL-CustHome/masterenv/releases/latest)
