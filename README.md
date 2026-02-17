@@ -1,6 +1,5 @@
 # MasterEnv
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/QVL-CustHome/masterenv)](https://github.com/QVL-CustHome/masterenv/releases/latest)
-Voici le fichier `README.md` demandé, structuré selon tes consignes avec une séparation claire entre la version anglaise (Installation) et la version française (Explication technique).
 
 ---
 
