@@ -6,7 +6,6 @@
 🇬🇧 **MasterEnv** is a Rust-based tool designed to synchronize environment variables across multiple microservices or directories in a monorepo. It ensures that specific variables defined in a central `.masterenv` file are propagated to all local configuration files, enforcing consistency across your architecture.
 
 🇫🇷 **MasterEnv** est un outil écrit en Rust conçu pour synchroniser les variables d'environnement à travers plusieurs microservices ou dossiers dans un monorepo. Il garantit que les variables définies dans un fichier central `.masterenv` sont propagées dans tous les fichiers de configuration locaux, assurant une cohérence dans votre architecture.
-Voici le fichier `README.md` complet, assemblé selon tes instructions : **Sommaire** en haut, suivi de la **version Anglaise**, puis de la **version Française**.
 
 ---
 
