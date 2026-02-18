@@ -1,0 +1,10 @@
+# Default ignored files
+.idea/
+masterenv/target/
+masterenv/shelf/
+masterenv/workspace.xml
+# Editor-based HTTP Client requests
+masterenv/httpRequests/
+# Datasource local storage ignored files
+masterenv/dataSources/
+masterenv/dataSources.local.xml
