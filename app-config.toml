@@ -1,0 +1,9 @@
+# Here is the application configuration file. 
+# You can add new configuration file types to the default list in masterenv.
+# You can add new directories to be ignored by masterenv.
+ 
+config_files = [".env", ".toml"]
+
+ignored_directories = ["target", ".git", "node_modules"]
+
+#Thank you for using masterenv
