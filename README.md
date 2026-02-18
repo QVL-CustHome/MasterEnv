@@ -181,7 +181,7 @@ This is the core of the system. Instead of blindly replacing the file:
 
 #### Installation rapide
 
-* Télécharger la dernière version : []()
+* Télécharger la dernière version : [![GitHub release (latest by date)](https://img.shields.io/github/v/release/QVL-CustHome/masterenv)](https://github.com/QVL-CustHome/masterenv/releases/latest)
 * Extraire le dossier et le placer à la racine de votre projet.
 
 #### Structure de votre projet avec masterenv
