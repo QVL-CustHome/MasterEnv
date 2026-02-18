@@ -321,3 +321,8 @@ C'est le cœur du système. Plutôt que de remplacer aveuglément le fichier :
 2. Il itère sur chaque ligne.
 3. **`get_line_expected`** : Analyse la ligne. Si la clé (ex: `PORT`) existe dans la HashMap du `.masterenv`, il reformate la ligne avec la valeur maître (`PORT=8080`). Sinon, il garde la ligne originale.
 4. **Écriture Conditionnelle** : Le fichier n'est réécrit sur le disque **que si** une modification a été détectée (`has_wrong_line`). Cela évite des écritures inutiles et préserve les métadonnées (timestamps).
+
+---
+
+# Author
+Developed by Martin QUEVAL
